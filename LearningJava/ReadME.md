@@ -76,6 +76,7 @@ First you have to create a JAR file to run. To create the JAR file for your Mave
    
 # Notes
 -You extend a java class
+
 -You implement a java interface
 
 
