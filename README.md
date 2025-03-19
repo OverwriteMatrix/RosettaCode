@@ -1,5 +1,5 @@
 # About This Repo
-This is my self-learning hub, where I document my progress as I dive into different programming languages, algorithms, and core CS concepts. Whether it’s mastering Python, Java, JavaScript, C++, or SQL, or tackling data structures, algorithms, and system design, this repo serves as a living record of my growth as a developer.
+This is my self-learning hub, where I document my progress as I dive into different programming languages, algorithms, and core CS concepts. Whether it’s mastering Python, Java, JavaScript, C++, or SQL, or tackling data structures, algorithms, and system design, this repo serves as a living record of my growth as a developer. It was also helpful to make so I could condense all of my learning reops into one.
 
 ## What You'll Find Here
 📌 Code snippets & exercises
