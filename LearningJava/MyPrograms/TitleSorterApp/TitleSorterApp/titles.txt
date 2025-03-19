@@ -1,0 +1,91 @@
+A Bug's Life;Pixar,1998,Kevin Spacey,Julia Louis-Dreyfus
+Agatha: Coven of Chaos;Marvel,2024,Kathryn Hahn
+Agent Carter;Marvel,2015–2016,Hayley Atwell
+Agents of S.H.I.E.L.D.;Marvel,2013–2020,Clark Gregg
+Ant-Man;Marvel,2015,Paul Rudd  
+Ant-Man and the Wasp;Marvel,2018,Paul Rudd  
+Ant-Man and the Wasp: Quantumania;Marvel,2023,Paul Rudd  
+Avengers: Age of Ultron;Marvel,2015,Robert Downey Jr.,Chris Evans,Chris Hemsworth  
+Avengers: Endgame;Marvel,2019,Robert Downey Jr.,Chris Evans,Chris Hemsworth  
+Avengers: Infinity War;Marvel,2018,Robert Downey Jr.,Chris Evans,Chris Hemsworth  
+Black Panther;Marvel,2018,Chadwick Boseman  
+Black Panther: Wakanda Forever;Marvel,2022,Letitia Wright  
+Black Widow;Marvel,2021,Scarlett Johansson  
+Brave;Pixar,2012,Kelly Macdonald,Emma Thompson
+Captain America: Civil War;Marvel,2016,Chris Evans,Robert Downey Jr.  
+Captain America: The First Avenger;Marvel,2011,Chris Evans  
+Captain America: The Winter Soldier;Marvel,2014,Chris Evans  
+Captain Marvel;Marvel,2019,Brie Larson  
+Cars;Pixar,2006,Owen Wilson,Paul Newman
+Cars 2;Pixar,2011,Owen Wilson,Michael Caine
+Cars 3;Pixar,2017,Owen Wilson,Chris Cooper
+Cloak & Dagger;Marvel,2018–2019,Aubrey Joseph, Olivia Holt
+Coco;Pixar,2017,Anthony Gonzalez,Gael García Bernal
+Daredevil;Marvel,2015–2018,Charlie Cox
+Daredevil: Born Again;Marvel,2025,Charlie Cox
+Doctor Strange;Marvel,2016,Benedict Cumberbatch  
+Doctor Strange in the Multiverse of Madness;Marvel,2022,Benedict Cumberbatch  
+Echo;Marvel,2024,Alaqua Cox
+Elemental;Pixar,2023,Leah Lewis,Jack Champion
+Eternals;Marvel,2021,Gemma Chan  
+Eyes of Wakanda;Marvel,2025,Danai Gurira
+Finding Dory;Pixar,2016,Ellen DeGeneres,Albert Brooks
+Finding Nemo;Pixar,2003,Albert Brooks,Ellen DeGeneres
+Guardians of the Galaxy;Marvel,2014,Chris Pratt  
+Guardians of the Galaxy Vol. 2;Marvel,2017,Chris Pratt  
+Guardians of the Galaxy Vol. 3;Marvel,2023,Chris Pratt  
+Hawkeye;Marvel,2021,Jeremy Renner, Hailee Steinfeld
+Helstrom;Marvel,2020,Tom Austen
+Incredibles 2;Pixar,2018,Craig T. Nelson,Holly Hunter
+Inhumans;Marvel,2017,Anson Mount
+Inside Out;Pixar,2015,Amy Poehler,Phyllis Smith
+Inside Out 2;Pixar,2024,Amy Poehler,Phyllis Smith
+Iron Fist;Marvel,2017–2018,Finn Jones
+Iron Man 2;Marvel,2010,Robert Downey Jr.  
+Iron Man 3;Marvel,2013,Robert Downey Jr.  
+Ironheart;Marvel,2025,Dominique Thorne
+Jessica Jones;Marvel,2015–2019,Krysten Ritter
+Lightyear;Pixar,2022,Chris Evans,Keke Palmer
+Loki;Marvel,2021–present,Tom Hiddleston
+Loki Season 2;Marvel,2023,Tom Hiddleston
+Luca;Pixar,2021,Jacob Tremblay,Jack Dylan Grazer
+Luke Cage;Marvel,2016–2018,Mike Colter
+Marvel Zombies;Marvel,2025,Various
+Monsters University;Pixar,2013,John Goodman,Billy Crystal
+Monsters, Inc.;Pixar,2001,John Goodman,Billy Crystal
+Moon Knight;Marvel,2022,Oscar Isaac
+Ms. Marvel;Marvel,2022,Iman Vellani
+Onward;Pixar,2020,Tom Holland,Chris Pratt
+Ratatouille;Pixar,2007,Patton Oswalt,Ian Holm
+Runaways;Marvel,2017–2019,Rhenzy Feliz
+Secret Invasion;Marvel,2023,Samuel L. Jackson, Ben Mendelsohn
+Shang-Chi and the Legend of the Ten Rings;Marvel,2021,Simu Liu  
+She-Hulk: Attorney at Law;Marvel,2022,Tatiana Maslany
+Soul;Pixar,2020,Jamie Foxx,Tina Fey
+Spider-Man: Far From Home;Marvel,2019,Tom Holland  
+Spider-Man: Homecoming;Marvel,2017,Tom Holland  
+Spider-Man: No Way Home;Marvel,2021,Tom Holland  
+The Avengers;Marvel,2012,Robert Downey Jr.,Chris Evans,Chris Hemsworth  
+The Defenders;Marvel,2017,Charlie Cox, Krysten Ritter, Mike Colter, Finn Jones
+The Falcon and the Winter Soldier;Marvel,2021,Anthony Mackie, Sebastian Stan
+The Good Dinosaur;Pixar,2015,Raymond Ochoa,Jack Bright
+The Incredible Hulk;Marvel,2008,Edward Norton  
+The Incredibles;Pixar,2004,Craig T. Nelson,Holly Hunter
+The Marvels;Marvel,2023,Brie Larson  
+The Punisher;Marvel,2017–2019,Jon Bernthal
+Thor;Marvel,2011,Chris Hemsworth  
+Thor: Love and Thunder;Marvel,2022,Chris Hemsworth  
+Thor: Ragnarok;Marvel,2017,Chris Hemsworth  
+Thor: The Dark World;Marvel,2013,Chris Hemsworth  
+Toy Story;Pixar,1995,Tom Hanks,Tim Allen
+Toy Story 2;Pixar,1999,Tom Hanks,Tim Allen
+Toy Story 3;Pixar,2010,Tom Hanks,Tim Allen
+Toy Story 4;Pixar,2019,Tom Hanks,Tim Allen
+Turning Red;Pixar,2022,Rosalie Chiang,Sandra Oh
+Up;Pixar,2009,Ed Asner,Christopher Plummer
+Vision Quest;Marvel,2026,Paul Bettany
+WALL·E;Pixar,2008,Ben Burtt,Elissa Knight
+WandaVision;Marvel,2021,Elizabeth Olsen, Paul Bettany
+What If...?;Marvel,2021–present,Jeffrey Wright
+Wonder Man;Marvel,2025,Yahya Abdul-Mateen II
+Your Friendly Neighborhood Spider-Man;Marvel,2025,Voice Cast
