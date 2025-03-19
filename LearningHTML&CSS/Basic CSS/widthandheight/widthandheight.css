@@ -1,0 +1,21 @@
+﻿.box {
+    border: 2px solid black;
+    background-color: white;
+    padding: 25px;
+    box-sizing: border-box; /* Disregards padding/borders when calculating height/width */
+    height: auto;
+    width: 50%;
+    float: left;
+    text-align: center;
+    /* max-width: 25%; */
+    /* min-width: 75%; */
+
+
+    min-height: 50%;
+    max-height: 75%;
+}
+
+.container{
+    background-color:gray;
+    height: 100vh;  /* vh = viewport height */
+}

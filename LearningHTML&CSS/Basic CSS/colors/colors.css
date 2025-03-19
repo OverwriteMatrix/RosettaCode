@@ -1,0 +1,28 @@
+﻿
+/* Named Colors */
+
+body{
+    background-color:lightgray;
+}
+
+#p1{
+    color: tomato;
+}
+
+/* RGB Colors */
+
+#p2{
+    color: rgb(200, 57, 102)
+}
+
+/* HEX Colors */
+
+#p3 {
+    color: #4CE46A;
+}
+
+/* HSL Colors */
+
+#p4{
+    color: hsl(50, 100%, 64%);
+}

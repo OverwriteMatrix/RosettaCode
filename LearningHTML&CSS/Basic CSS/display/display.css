@@ -1,0 +1,17 @@
+﻿div{
+    background-color: hsl(0, 100%, 75%);
+    width: 100px;
+    height: 100px;
+    /* display: block (does nothing since div is already a block level element */
+    /* display: inline; Takes up only as much room as necessary */
+    display: inline-block;  /* display: none is as if it doesn't exist and the next element will take it's place */
+    /* visibility: hidden; */
+}
+span{
+    background-color: hsl(204, 100%, 75%);
+    width: 100px;
+    height: 100px;
+    display: inline-block; /* Displays as a block and allows for width and height to work since span is not by default a block element */
+}
+
+/* display options are: inline, block, inline-block, and none (hidden) */

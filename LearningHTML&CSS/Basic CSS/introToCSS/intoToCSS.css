@@ -1,0 +1,22 @@
+﻿/* Normal Styling */
+body {
+    background-color:black;
+}
+
+h1{
+    color:white;
+}
+
+/* ID Styling */
+#p1{
+    color:cadetblue;
+}
+
+/* Class Styling */
+.odd{
+    color:red;
+}
+
+.even{
+    color:blue;
+}

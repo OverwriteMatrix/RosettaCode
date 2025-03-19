@@ -1,0 +1,99 @@
+﻿body{
+    background-color: papayawhip;
+}
+
+button:hover {
+    font-size: 1.1em;
+    background-color: cornflowerblue;
+}
+
+button:active {
+    font-size: 1.1em;
+    background-color: darkred;
+}
+
+/* Seems like you can only use one link style ie. hover, visited, etc. */
+a:hover {
+    color: blue;
+}
+/*
+a:link {
+    color: black;
+    font-size: 25px;
+}
+a:active {
+    font-size: 1.1em;
+    color: purple;
+}
+a:visited {
+    color: blue;
+}
+*/
+
+li:hover {
+    background-color: darkred;
+}
+li:not(:hover) {
+    background-color: yellow;
+}
+
+#greeting p {
+    background-color: cadetblue;
+    padding: 10px;
+    display: none;
+}
+
+#greeting:hover p {
+    display: block;
+}
+
+
+
+/* 
+    /* Button
+button:hover{
+    font-size: 1.1em;
+    background-color:cornflowerblue;
+}
+button:active {
+    font-size: 1.1em;
+    background-color:darkred;
+}
+
+Links 
+a:link{
+    color:black;
+    font-size: 25px;
+}
+a:hover{
+    color: blue;
+}
+a:active{
+    font-size: 1.1em;
+    color:purple;
+}
+a:visited{
+    color: blue;
+}
+
+List
+li:hover{
+    background-color:yellow;
+}
+li:not(:hover) {
+    background-color: yellow;
+}
+
+li:nth-child(3n+2){
+    background-color:red;
+}
+
+#greeting p{
+    background-color: cadetblue;
+    padding: 10px;
+    display: none;
+}
+#greeting:hover p{
+    display:block;
+}
+*/

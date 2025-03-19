@@ -1,0 +1,23 @@
+﻿body{
+    margin: 0px;
+}
+
+.box{
+    border: 5px solid;
+    font-size: 5em;
+    width: 250px;
+    height: 250px;
+}
+
+#box1{
+    background-color: hsl(0, 100%, 60%);
+    margin-bottom: 25px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+#box2 {
+    background-color: hsl(189, 100%, 55%);
+    margin: auto;
+    /* margin: 50px; This gives margin around all sides */
+}

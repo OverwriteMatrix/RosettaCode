@@ -1,0 +1,11 @@
+﻿h1 {
+    font-size: 100px;
+    text-shadow: 3px 3px 5px red, -3px -3px 5px blue; /* Horizontal Offset, Vertical Offset, Blur, Color*/
+}
+
+#box1{
+    width: 100px;
+    height: 100px;
+    background-color:antiquewhite;
+    box-shadow: 3px 3px 5px black;
+}

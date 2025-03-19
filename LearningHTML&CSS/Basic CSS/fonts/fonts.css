@@ -1,0 +1,23 @@
+﻿h1{
+    font-family: Verdana, Arial;
+}
+#p1 {
+    font-family: "lucida console", 'Courier New';
+    font-size: 20px;        /* em = % of size, 1em = 100% */
+    font-weight:bold;
+    font-style:italic;
+}
+#p2 {
+    font-family: "League Script", Arial;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+/* If you download fonts
+
+    @font-face{
+        src: url(RELATIVE FILE PATH TO DOWNLOADED FONTS);
+        font-family: NAME FONT, CAN KEEP SAME OR CHANGE;
+    }
+
+*/

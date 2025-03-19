@@ -1,0 +1,7 @@
+﻿body {
+    background-image: url(nature2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;    /* Centers Horizontally */
+    background-attachment: fixed;   /* Centers Vertically */
+    background-size: cover;
+}

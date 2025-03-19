@@ -1,0 +1,23 @@
+﻿#container{
+    border: 2px solid black;
+}
+
+#container > p{ /* Child Combinator */
+    background-color:yellow;
+}
+
+#container p{ /* Descendant Combinator */
+    margin-left: 30px;
+}
+
+#container > p{ /* Child Combinator */
+    background-color:yellow;
+}
+
+#container ~ p{ /* General Sibling Combinator */
+    background-color:cadetblue;
+}
+
+#container + p{ /* Adjacent Sibling Combinator  - Selects only adjacent siblings (AKA only 4 in this case ADJACENT */
+    border: 4px dotted black;
+}

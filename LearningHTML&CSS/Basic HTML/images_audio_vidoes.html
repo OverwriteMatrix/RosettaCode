@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>IMAGES, AUDIO, VIDEO</title>
+</head>
+<body>
+    <!--     IMAGES      -->
+    <img src="images/nature1.jpg"
+         height="200" />                                   <!--You can set a width but it will compress/stretch, setting a height auto sets a width to best fit-->
+    <!--alt="This is a picture of a moutain" />           Alternate text for if image fails to load + visually impaired screen reader reads alt text-->
+    <br />
+    <hr />
+    <!--Turning an image into a clickable link-->
+    <a href="https://www.nps.gov/romo/index.htm/index.htm">
+        <img src="images/nature1.jpg"
+             height="200"
+             alt="Picture of a moutain" />
+    </a>
+    <!--You can add GIF to webpages also in the same way as an image (with .gif at the end obviously)-->
+    <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
+    <br />
+    <!--     Audio      -->
+    <audio controls autoplay muted loop>
+        <source src="music/NameOfMusic.mp3" type="audio/mp3" />    <!--Ensure it is in the right folder-->
+        <source src="music/NameOfMusic.wav" type="audio/wav" />    <!--Backup audio (Same one) just different type wav instead of mp3-->
+    </audio>
+
+    <!--Wanting to add another song? - add another audio tag don't put multiple songs in one audio tag-->
+    <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
+    <br />
+    <!--     Video      -->
+
+    <video height="500" width="500" controls autoplay muted loop>
+        <source src="MyVideo.mp4" />
+        <source src="MyVideo.webm" />   <!--Backup video type in case .mp4 video isnt supported-->
+    </video>
+
+    <!--Can turn a video into a hyperlink by surrounding with a tags-->
+    <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
+
+</body>
+</html>

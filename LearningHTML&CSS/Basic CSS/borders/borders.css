@@ -1,0 +1,31 @@
+﻿
+body{
+    background-color:black;
+}
+
+h1{
+    border-style: solid;         /* Solid, Dashed, Dotted, Double, Groove, Ridge, Inset, Outset, or None*/      
+    border-width: 2px;           /* For the border thickness */
+    border-color: red;
+    border-radius: 5px;          /* Rounds the corners (Higher the number more rounded) (Max seems to be 20px) */
+
+    color:white;
+
+}
+
+h2{
+    /* Shorthand syntax */
+    border: 3px solid rgb(76, 255, 0);  /* Includes style, width, and color */
+    border-radius: 3px;
+
+    color:white;
+}
+
+p{
+    border-bottom: 3px solid red;
+    border-top: 5px dashed blue;
+    border-right: 2px dotted yellow;
+    border-left: 8px double green;
+
+    color:white;
+}

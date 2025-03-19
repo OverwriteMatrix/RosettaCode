@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Buttons</title>
+</head>
+<body>
+
+    <!-- Buttons -->
+    <a href="https://www.google.com">
+        <button style="font-size:25px; background-color:gray; color:lightblue; border-radius:5px">Google</button>
+    </a>
+
+    <a href="hyperlinks.html">
+        <button style="font-size:25px; background-color:gray; color:lightblue; border-radius:5px">Hyperlinks</button>
+    </a>
+
+    <a href="spandiv.html">
+        <button style="font-size:25px; background-color:gray; color:lightblue; border-radius:5px">Span and Div</button>
+    </a>
+
+    <a href="images_audio_vidoes.html">
+        <button style="font-size:25px; background-color:gray; color:lightblue; border-radius:5px">Images Audios and Videos</button>
+    </a>
+
+   
+    <!-- Buttons with JavaScript -->
+    <button onclick="doSomething()" style="font-size:25px; background-color:gray; color:lightblue; border-radius:5px">Hello -> Goodbye</button>
+    <p id="greeting">HELLO</p>
+    <script>
+        function doSomething() {
+            document.getElementById("greeting").innerHTML = "GOODBYE";
+        }
+    </script>
+
+
+
+</body>
+</html>

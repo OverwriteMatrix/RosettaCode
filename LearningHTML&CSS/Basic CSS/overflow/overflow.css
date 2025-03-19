@@ -1,0 +1,19 @@
+﻿
+/* Problem div */
+#div1{
+    border: 2px solid;
+    height: 75px;
+}
+
+/* Solution div */
+#div2 {
+    border: 2px solid;
+    height: 75px;
+    /* overflow: visible; = Allow it to do so */
+    /* overflow: hidden;  = Hides the overflow */
+    /* overflow: clip;    = similar to overflow hidden but works in tandem with overflow-clip-margin: OVERFLOW AMOUNT ALLOWED; (See below) 
+    overflow-clip-margin: 10px; */
+    overflow: scroll;   /* Could just use overflow: auto */
+}
+
+/* VISIBLE, HIDDEN, CLIP, SCROLL, or AUTO */
