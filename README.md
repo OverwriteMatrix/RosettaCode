@@ -3,9 +3,13 @@ This is my self-learning hub, where I document my progress as I dive into differ
 
 ## What You'll Find Here
 📌 Code snippets & exercises
+
 📌 Mini-projects in various languages and language specific folders
+
 📌 Notes on CS fundamentals and various classes I take
+
 📌 Problem-solving practice
+
 📌 Useful resources & references
 
 ## Why I Created This
