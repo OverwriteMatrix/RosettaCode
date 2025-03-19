@@ -74,5 +74,8 @@ First you have to create a JAR file to run. To create the JAR file for your Mave
 8. ON WINDOWS OPTIONAL: Then, instead of having the shortcut to the .bat file, have the shortcut to this file to have the command prompt auto-hide when running the program
    (See step 5 for creating a shortcut)
    
+# Notes
+-You extend a java class
+-You implement a java interface
 
 
