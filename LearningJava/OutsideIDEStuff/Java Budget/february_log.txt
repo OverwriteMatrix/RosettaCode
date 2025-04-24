@@ -1,0 +1,4 @@
+2025-03-12 09:05:35 - Added a new row.
+2025-03-12 09:05:35 - Added a new row.
+2025-03-12 09:05:35 - Added a new row.
+2025-03-12 09:43:05 - Edited cell at (Row: 1, Column: 3) to 'February'.
