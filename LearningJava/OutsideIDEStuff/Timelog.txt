@@ -1,0 +1,26 @@
+Line Added: Monday, March 17th 2025 at 04:50:06 PM | Arrives: 8.0 am  | Time for Lunch: 0.0 hrs. | Departed: 5.0 pm | Total Hours: 9.0
+Line Added: Tuesday, March 18th 2025 at 04:54:39 PM | Arrives: 8.0 am  | Time for Lunch: 0.0 hrs. | Departed: 5.0 pm | Total Hours: 9.0
+Line Added: Wednesday, March 19th 2025 at 04:45:42 PM | Arrives: 8.0 am  | Time for Lunch: 0.0 hrs. | Departed: 5.0 pm | Total Hours: 9.0
+Line Added: Thursday, March 20th 2025 at 04:41:41 PM | Arrives: 8.0 am  | Time for Lunch: 0.0 hrs. | Departed: 5.0 pm | Total Hours: 9.0
+Line Added: Friday, March 21st 2025 at 03:51:29 PM | Arrives: 8.0 am  | Time for Lunch: 0.0 hrs. | Departed: 4.0 pm | Total Hours: 8.0
+Line Added: Monday, March 24th 2025 at 00:00:00 PM | Arrives: 8.0 am  | Time for Lunch: 0.0 hrs. | Departed: 5.0 pm | Total Hours: 9.0
+Line Added: Tuesday, March 25th 2025 at 08:40:00 AM | Arrives: 8.0 am  | Time for Lunch: 0.0 hrs. | Departed: 8.40 am | Total Hours: 0.8
+Sick Wednesday March 26th 2025
+Line Added: Thursday, March 27th 2025 at 04:48:36 PM | Arrives: 8.0 am  | Time for Lunch: 0.0 hrs. | Departed: 5.0 pm | Total Hours: 9.0
+Line Added: Monday, March 31st 2025 at 04:48:06 PM | Arrives: 8.0 am  | Time for Lunch: 0.0 hrs. | Departed: 5.0 pm | Total Hours: 9.0
+Line Added: Tuesday, April 1st 2025 at 04:56:46 PM | Arrives: 8.0 am  | Time for Lunch: 0.0 hrs. | Departed: 5.0 pm | Total Hours: 9.0
+Line Added: Wednesday, April 2nd 2025 at 05:01:11 PM | Arrives: 8.0 am  | Time for Lunch: 0.0 hrs. | Departed: 5.0 pm | Total Hours: 9.0
+Line Added: Thursday, April 3rd 2025 at 04:22:40 PM | Arrives: 8.0 am  | Time for Lunch: 0.0 hrs. | Departed: 4.5 pm | Total Hours: 8.5
+Line Added: Friday, April 4th 2025 at 03:51:53 PM | Arrives: 8.0 am  | Time for Lunch: 0.0 hrs. | Departed: 4.0 pm | Total Hours: 8.0
+Line Added: Monday, April 7th 2025 at 04:54:38 PM | Arrives: 8.0 am  | Time for Lunch: 0.0 hrs. | Departed: 5.0 pm | Total Hours: 9.0
+Line Added: Tuesday, April 8th 2025 at 04:39:36 PM | Arrives: 8.0 am  | Time for Lunch: 0.0 hrs. | Departed: 5.0 pm | Total Hours: 9.0
+Line Added: Wednesday, April 9th 2025 at 04:58:55 PM | Arrives: 8.0 am  | Time for Lunch: 0.0 hrs. | Departed: 5.0 pm | Total Hours: 9.0
+Line Added: Thursday, April 10th 2025 at 04:18:19 PM | Arrives: 8.0 am  | Time for Lunch: 0.0 hrs. | Departed: 4.5 pm | Total Hours: 8.5
+Line Added: Monday, April 14th 2025 at 04:58:17 PM | Arrives: 8.0 am  | Time for Lunch: 0.0 hrs. | Departed: 5.0 pm | Total Hours: 9.0
+Line Added: Tuesday, April 15th 2025 at 04:44:06 PM | Arrives: 8.0 am  | Time for Lunch: 0.0 hrs. | Departed: 5.0 pm | Total Hours: 9.0
+Line Added: Wednesday, April 16th 2025 at 04:47:18 PM | Arrives: 8.0 am  | Time for Lunch: 0.0 hrs. | Departed: 5.0 pm | Total Hours: 9.0
+Line Added: Thursday, April 17th 2025 at 04:37:58 PM | Arrives: 8.5 am  | Time for Lunch: 0.0 hrs. | Departed: 5.0 pm | Total Hours: 8.5
+Line Added: Friday, April 18th 2025 at 04:00:23 PM | Arrives: 8.0 am  | Time for Lunch: 0.0 hrs. | Departed: 4.0 pm | Total Hours: 8.0
+Line Added: Monday, April 21st 2025 at 04:57:30 PM | Arrives: 8.50 am  | Time for Lunch: 0.0 hrs. | Departed: 5.0 pm | Total Hours: 8.1
+Line Added: Tuesday, April 22nd 2025 at 04:53:38 PM | Arrives: 8.0 am  | Time for Lunch: 0.0 hrs. | Departed: 5.0 pm | Total Hours: 9.0
+Line Added: Wednesday, April 23rd 2025 at 04:47:56 PM | Arrives: 8.0 am  | Time for Lunch: 0.0 hrs. | Departed: 5.0 pm | Total Hours: 9.0
