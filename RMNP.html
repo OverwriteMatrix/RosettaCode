@@ -2,261 +2,83 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Rocky Moutain National Park Sites</title>
+  <title>Hiking Trails</title>
   <style>
     table {
-      border-collapse: collapse; /* removes double borders */
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 20px;
     }
-
     th, td {
-      border: 1px solid black;
-      padding: 5px; /* adds space inside cells */
+      border: 1px solid #ccc;
+      padding: 8px;
       text-align: left;
+    }
+    th {
+      background-color: #f2f2f2;
+      cursor: pointer;
+    }
+    th:hover {
+      background-color: #ddd;
     }
   </style>
 </head>
 <body>
-
-  <h3>Hikes</h3>
-
-  <table>
-    <tr>
-      <th>Name</th>
-      <th>Length</th>
-      <th>Elevation Gain</th>
-      <th>OW/RT</th>
-      <th>Starting Point/Trailhead</th>
-      <!-- <th>Type</th>        <!-- Types: Out-and-Back, Loop, Point-to-Point, Lolipop, ect.-->
-      <th>Rating</th>
-    </tr>
-    <tr>
-      <td> - </td>
-      <td> - </td>
-      <td><b>Lake Hikes</b></td>
-      <td> - </td>
-      <td> - </td>
-      <td> - </td>
-    </tr>
-    <tr>
-      <td>Bear Lake</td>
-      <td>0.7 Miles</td>
-      <td>20 ft</td>
-      <td>Round Trip</td>
-      <td>Bear Lake Trailhead, Bear Lake Rd, Estes Park, CO 80517</td>
-      <td>Easy</td>
-    </tr>
-    <tr>
-      <td>Cub Lake</td>
-      <td>2.3 Miles</td>
-      <td>540 ft</td>
-      <td>Cub Lake Trailhead</td>
-      <td>One Way</td>
-      <td> - </td>
-    </tr>
-    <tr>
-      <td>Mills Lake</td>
-      <td>5 Miles</td>
-      <td>700 ft</td>
-      <td>Glacier Gorge Parking</td>
-      <td>One Way</td>
-      <td>Moderate</td>
-    </tr>
-    <tr>
-      <td>Bluebird Lake</td>
-      <td> - </td>
-      <td> - </td>
-      <td> - </td>
-      <td> - </td>
-      <td> - </td>
-    </tr>
-    <tr>
-      <td>Sprague Lake Loop</td>
-      <td>0.7 Miles</td>
-      <td>34 ft</td>
-      <td> - </td>
-      <td>Round Trip</td>
-      <td>Easy</td>
-    </tr>
-    <tr>
-      <td>Lake Haiyaha</td>
-      <td>4.2 Miles</td>
-      <td>745 ft</td>
-      <td>Bear Lake Trailhead</td>
-      <td>Round Trip</td>
-      <td> - </td>
-    </tr>
-    <tr>
-      <td>Gem Lake</td>
-      <td> - </td>
-      <td> - </td>
-      <td> - </td>
-      <td> - </td>
-      <td> - </td>
-    </tr>
-    <tr>
-      <td>Dream Lake</td>
-      <td> - </td>
-      <td> - </td>
-      <td> - </td>
-      <td> - </td>
-      <td> - </td>
-    </tr>
-    <tr>
-      <td>Ypsilon Lake</td>
-      <td> - </td>
-      <td> - </td>
-      <td> - </td>
-      <td> - </td>
-      <td> - </td>
-    </tr>
-    <tr>
-      <td>The Pool</td>
-      <td> - </td>
-      <td> - </td>
-      <td> - </td>
-      <td> - </td>
-      <td> - </td>
-    </tr>
-    <tr>
-      <td>The Loch</td>
-      <td> - </td>
-      <td> - </td>
-      <td> - </td>
-      <td> - </td>
-      <td> - </td>
-    </tr>
-    <tr>
-      <td>Odessa Lake</td>
-      <td> - </td>
-      <td> - </td>
-      <td> - </td>
-      <td> - </td>
-      <td> - </td>
-    </tr>
-    <tr>
-      <td>Chasm Lake</td>
-      <td> - </td>
-      <td> - </td>
-      <td> - </td>
-      <td> - </td>
-      <td> - </td>
-    </tr>
-    <tr>
-      <td>East Shore Trail</td>
-      <td> - </td>
-      <td> - </td>
-      <td> - </td>
-      <td> - </td>
-      <td> - </td>
-    </tr>
-    <tr>
-      <td>Fern Lake</td>
-      <td> - </td>
-      <td> - </td>
-      <td> - </td>
-      <td> - </td>
-      <td> - </td>
-    </tr>
-    <tr>
-      <td> - </td>
-      <td> - </td>
-      <td><b>Waterfall Hikes</b></td>
-      <td> - </td>
-      <td> - </td>
-      <td> - </td>
-    </tr>
-    <tr>
-      <td>Adams Falls</td>
-      <td> - </td>
-      <td> - </td>
-      <td> - </td>
-      <td> - </td>
-      <td> - </td>
-    </tr>
-    <tr>
-      <td>Alberta Falls</td>
-      <td> - </td>
-      <td> - </td>
-      <td> - </td>
-      <td> - </td>
-      <td> - </td>
-    </tr>
-    <tr>
-      <td>Cascade Falls</td>
-      <td> - </td>
-      <td> - </td>
-      <td> - </td>
-      <td> - </td>
-      <td> - </td>
-    </tr>
-    <tr>
-      <td>Ouzel Falls</td>
-      <td> - </td>
-      <td> - </td>
-      <td> - </td>
-      <td> - </td>
-      <td> - </td>
-    </tr>
-    <tr>
-      <td>Timberline Falls</td>
-      <td> - </td>
-      <td> - </td>
-      <td> - </td>
-      <td> - </td>
-      <td> - </td>
-    </tr>
-    <tr>
-      <td>Granite Falls</td>
-      <td> - </td>
-      <td> - </td>
-      <td> - </td>
-      <td> - </td>
-      <td> - </td>
-    </tr>
-    <tr>
-      <td>Chasm Falls</td>
-      <td> - </td>
-      <td> - </td>
-      <td> - </td>
-      <td> - </td>
-      <td> - </td>
-    </tr>
-    <tr>
-      <td> - </td>
-      <td> - </td>
-      <td><b>Summit Hikes</b></td>
-      <td> - </td>
-      <td> - </td>
-      <td> - </td>
-    </tr>
-    <tr>
-      <td>Deer Moutain</td>
-      <td> - </td>
-      <td> - </td>
-      <td> - </td>
-      <td> - </td>
-      <td> - </td>
-    </tr>
-    <tr>
-      <td>Twin Sisters</td>
-      <td> - </td>
-      <td> - </td>
-      <td> - </td>
-      <td> - </td>
-      <td> - </td>
-    </tr>
-    <tr>
-      <td>Flattop Moutain</td>
-      <td> - </td>
-      <td> - </td>
-      <td> - </td>
-      <td> - </td>
-      <td> - </td>
-    </tr>
-    
-    
+  <h1>Hiking Trails</h1>
+  <table id="hikeTable">
+    <thead>
+      <tr>
+        <th onclick="sortTable(0)">Name</th>
+        <th onclick="sortTable(1)">Distance (mi)</th>
+        <th onclick="sortTable(2)">Elevation (ft)</th>
+        <th onclick="sortTable(3)">Trailhead Location</th>
+        <th onclick="sortTable(4)">Difficulty</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Skyline Trail</td>
+        <td>5.5</td>
+        <td>1500</td>
+        <td>Mt. Rainier NP</td>
+        <td>Moderate</td>
+      </tr>
+      <tr>
+        <td>Angels Landing</td>
+        <td>5.4</td>
+        <td>1488</td>
+        <td>Zion NP</td>
+        <td>Hard</td>
+      </tr>
+      <tr>
+        <td>Bear Lake Loop</td>
+        <td>0.6</td>
+        <td>50</td>
+        <td>Rocky Mountain NP</td>
+        <td>Easy</td>
+      </tr>
+    </tbody>
   </table>
 
+  <script>
+    function sortTable(columnIndex) {
+      const table = document.getElementById("hikeTable");
+      const rows = Array.from(table.rows).slice(1);
+      const isNumber = !isNaN(rows[1].cells[columnIndex].textContent.trim());
+      const ascending = !table.getAttribute("data-sort-" + columnIndex) || table.getAttribute("data-sort-" + columnIndex) === "desc";
+      rows.sort((a, b) => {
+        const valA = a.cells[columnIndex].textContent.trim();
+        const valB = b.cells[columnIndex].textContent.trim();
+        if (isNumber) {
+          return ascending ? valA - valB : valB - valA;
+        } else {
+          return ascending ? valA.localeCompare(valB) : valB.localeCompare(valA);
+        }
+      });
+      table.setAttribute("data-sort-" + columnIndex, ascending ? "asc" : "desc");
+      const tbody = table.tBodies[0];
+      rows.forEach(row => tbody.appendChild(row));
+    }
+  </script>
 </body>
 </html>
-
